@@ -1,6 +1,6 @@
 🧠 **BRIEFING**
 
-**1. Informações gerais** <br>
+**1. Informações gerais** <br><br>
 1.1 Nome do sistema: Cash Alert <br>
 1.2 Nome da equipe: Canopus
  <br> <br>
