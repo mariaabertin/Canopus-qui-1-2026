@@ -7,7 +7,7 @@ Disciplina: Análise e Projeto de Sistemas
 
 Orientador: Prof. Me. Denys Alves da Silva
 
-Nome do grupo: 
+Nome do grupo: Canopus
 
 Alunos: 
 22511591 Heber Américo Macedo - heber.macedo@sempreceub.com
