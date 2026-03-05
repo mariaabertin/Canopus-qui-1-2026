@@ -22,36 +22,24 @@ Grupo: Canopus
 
 3 - Stakeholders usuários e clientes: 
 
-Usuário: utilizador do sistema, é o único impactado com este sistema, capaz de realizar todas as funcionalidades.
+&nbsp;Usuário: utilizador do sistema, é o único impactado com este sistema, capaz de realizar todas as funcionalidades.
 
 
 
 4 - Escopo:
 
 Cadastrar perfil do usuário (registrar por CPF, nome, contato e senha);
-
 Registrar saldo inicial (preencher/editar o salto total no momento do acesso);
-
 Cadastrar receitas (preencher saldos do mês com categoria, data e valor);
-
 Cadastrar despesas (preencher despesas do mês com categoria, data e valor);
-
 Cadastrar reservas financeiras (preencher com valor em poupança, caixinha ou investimento com informações de categoria e valor);
-
 Classificar despesas como fixas ou variáveis (definir o cronograma de repetição das despesas, como isolada, diária, mensal, semanal, em dias úteis, anual);
-
 Configurar alertas para vencimento de despesas (definir canal \[email ou telefone], configurar a mensagem exibida, quantidade de alertas por data e horário);
-
 Configurar alertas personalizados (Configurar alertas baseados em uma data e hora especificada pelo usuário);
-
 Visualizar registros em formato de calendário (Visualizar registros criados pelo usuário baseadas em mês e dia por calendário do sistema);
-
 Vincular registros em calendário externo (Vincular registros no calendário do teams e/ou google calendar);
-
 Gerar relatório financeiro mensal (Gerar relatório ao final de todo mês especificando as ações financeiras dos usuários);
-
 Realizar buscas por filtros (Realizar buscas nos registros com base em suas características: valor, tipo, categoria e intervalo de tempo);
-
 Criar históricos dos relatórios mensais (Gerar relatórios com base nos registros e intervalo de tempo definido pelo usuário).
 
 
@@ -59,7 +47,6 @@ Criar históricos dos relatórios mensais (Gerar relatórios com base nos regist
 5 - Restrições:
 
 Funcionalidade apenas web, precisa de conexão;
-
 O sistema não consegue descobrir saldos e despesas além do que for registrado pelo usuário.
 
 
@@ -67,11 +54,8 @@ O sistema não consegue descobrir saldos e despesas além do que for registrado 
 6 - Critérios de sucesso: 
 
 Teste de software para validação da performance requisitada e esperada do sistema;
-
 Sistemas de controle de satisfação do usuário com o sistema;
-
 Tempo de utilização da plataforma;
-
 Indicadores de taxa de abandono.
 
 
