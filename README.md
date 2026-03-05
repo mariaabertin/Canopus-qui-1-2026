@@ -10,11 +10,11 @@ Orientador: Prof. Me. Denys Alves da Silva
 Nome do grupo: Canopus
 
 Alunos: 
-22511591 Heber Américo Macedo - heber.macedo@sempreceub.com
-22510876 Maria Clara Bertin Vieira Ferreira - bertinmaria@sempreceub.com
-22511112 Marco Antônio de Melo Peixoto - marcoamp@sempreceub.com
-22504972 Thaynara Lima Soares Sousa - thaynara.ls@sempreceub.com
-22510078 Wendel Nascimento Cavalcante - wendel.nc@sempreceub.com
+22511591 Heber Américo Macedo - heber.macedo@sempreceub.com <br> 
+22510876 Maria Clara Bertin Vieira Ferreira - bertinmaria@sempreceub.com <br> 
+22511112 Marco Antônio de Melo Peixoto - marcoamp@sempreceub.com <br> 
+22504972 Thaynara Lima Soares Sousa - thaynara.ls@sempreceub.com <br> 
+22510078 Wendel Nascimento Cavalcante - wendel.nc@sempreceub.com <br> 
 
 
 ---
