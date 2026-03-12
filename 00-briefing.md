@@ -28,21 +28,39 @@ Não há um sistema para lembrar o usuário de seus planejamentos e despesas. <b
 Registrar receitas e despesas a fim de promover controle financeiro pessoal eficiente, prevenindo atrasos por meio de alertas automatizados de vencimentos e desorganização nos demais gastos.
 
 3.2 Funcionalidades específicas (secundárias) do sistema: <br>
-Cadastrar perfil do usuário; <br>
-Registrar saldo inicial; <br>
-Cadastrar receitas; <br>
-Cadastrar despesas; <br>
-Cadastrar reservas financeiras; <br>
-Cadastrar categorias de receitas; <br>
-Cadastrar categorias de despesas; <br>
-Cadastrar categorias de reservas financeiras; <br>
-Classificar despesas como fixas ou variáveis; <br>
-Configurar alertas para vencimento de despesas; <br>
-Configurar alertas personalizados; <br>
-Visualizar registros em formato de calendário; <br>
-Gerar relatório financeiro mensal; <br>
-Realizar buscas por filtros: saldo, categoria e intervalo de tempo; <br>
-Criar históricos dos relatórios mensais; <br>
+Cadastrar perfil do usuário.
+
+Registrar saldo inicial.
+
+Cadastrar receitas.
+
+Cadastrar despesas.
+
+Cadastrar reservas financeiras.
+
+Classificar despesas como fixas ou variáveis.
+
+Editar e excluir registros financeiros.
+
+Configurar alertas para vencimento de despesas.
+
+Configurar alertas personalizados.
+
+Notificar saldo negativo ou risco financeiro.
+
+Visualizar registros em formato de calendário.
+
+Vincular registros em calendário externo.
+
+Realizar buscas por filtros.
+
+Gerar relatório financeiro mensal.
+
+Criar histórico de relatórios mensais.
+
+Baixar relatórios mensais.
+
+Realizar Backup e recuperação de dados. <br>
  <br> <br>
 **4. Escopo não funcional** <br>
 Arquitetura baseada no padrão MVC (Model-View-Controller); <br>
