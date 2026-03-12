@@ -38,8 +38,6 @@ Cadastrar despesas.
 
 Cadastrar reservas financeiras.
 
-Classificar despesas como fixas ou variáveis.
-
 Editar e excluir registros financeiros.
 
 Configurar alertas para vencimento de despesas.
