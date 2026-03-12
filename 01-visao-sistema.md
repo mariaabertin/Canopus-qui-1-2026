@@ -23,19 +23,62 @@ Grupo: Canopus
 
 **4 - Escopo:**
 
-Cadastrar perfil do usuário (registrar por CPF, nome, contato e senha); <br>
-Registrar saldo inicial (preencher/editar o salto total no momento do acesso); <br>
-Cadastrar receitas (preencher saldos do mês com categoria, data e valor); <br>
-Cadastrar despesas (preencher despesas do mês com categoria, data e valor); <br>
-Cadastrar reservas financeiras (preencher com valor em poupança, caixinha ou investimento com informações de categoria e valor); <br>
-Classificar despesas como fixas ou variáveis (definir o cronograma de repetição das despesas, como isolada, diária, mensal, semanal, em dias úteis, anual); <br>
-Configurar alertas para vencimento de despesas (definir canal \[email ou telefone], configurar a mensagem exibida, quantidade de alertas por data e horário); <br>
-Configurar alertas personalizados (Configurar alertas baseados em uma data e hora especificada pelo usuário); <br>
-Visualizar registros em formato de calendário (Visualizar registros criados pelo usuário baseadas em mês e dia por calendário do sistema); <br>
-Vincular registros em calendário externo (Vincular registros no calendário do teams e/ou google calendar); <br>
-Gerar relatório financeiro mensal (Gerar relatório ao final de todo mês especificando as ações financeiras dos usuários); <br>
-Realizar buscas por filtros (Realizar buscas nos registros com base em suas características: valor, tipo, categoria e intervalo de tempo); <br>
-Criar históricos dos relatórios mensais (Gerar relatórios com base nos registros e intervalo de tempo definido pelo usuário). <br>
+Cadastrar perfil do usuário (Cadastrar conta do usuário no sistema por meio do fornecimento de CPF, nome completo, e-mail e senha de acesso para autenticação na plataforma).
+
+
+Acessar o sistema (Usuário acessa sua conta por meio do CPF e senha previamente cadastrados no sistema).
+
+
+Registrar saldo inicial (Permitir ao usuário definir o saldo financeiro total disponível no momento do primeiro acesso).
+
+
+Visualizar relatorio mensal (Dashboard completo contendo os cadastros de receitas, despesas variáveis, despesas fixas e reservas financeiras, com seus parâmetros, cadastrados para o mês vigente).
+
+
+Cadastrar receitas (Registrar entradas financeiras informando categoria, data e valor, permitindo o acompanhamento mensal).
+
+
+Cadastrar despesas (Registrar saídas financeiras informando categoria da despesa, data e valor, permitindo o controle das despesas).
+
+
+Cadastrar reservas financeiras (Registrar valores nas reservas financeiras, como poupança, caixinhas ou investimentos, com informações de categoria e valor).
+
+
+Classificar despesas como fixas ou variáveis (Permitir a definição do tipo da despesa e configurar seu padrão de recorrência).
+
+
+Editar e excluir registros financeiros (Permitir ao usuário modificar ou remover registros cadastrados de entrada, saída ou alertas, garantindo melhor gerenciamento).
+
+
+Configurar alertas para vencimento de despesas (Permitir ao usuário definir notificações automáticas -eviadas para o email cadastrado- para vencimentos de contas).
+
+
+Configurar alertas personalizados (Permitir a criação de lembretes financeiros personalizados baseados em data e horário definidos pelo usuário, que aparecerão no calendário do sistema e notificadas no email cadastrado).
+
+
+Notificar saldo negativo ou risco financeiro (Enviar notificações ao usuário -via email- quando o sistema identificar risco de saldo negativo ou quando as despesas registradas ultrapassarem as entradas do período).
+
+
+Visualizar registros em formato de calendário (Visualizar registros criados pelo usuário baseados em mês e dia por meio do calendário do sistema).
+
+
+Vincular registros em calendário externo (Vincular registros no calendário do Teams e/ou Google Calendar).
+
+
+Realizar buscas por filtros (Permitir a pesquisa de registros financeiros utilizando filtros como valor, tipo de movimentação, categoria e intervalo de tempo).
+
+
+Gerar relatório financeiro mensal (Gerar automaticamente um relatório ao final de cada mês, apresentando o resumo das entradas, saídas e movimentações financeiras registradas).
+
+
+Criar histórico de relatórios mensais (Armazenar e disponibilizar relatórios financeiros gerados, permitindo consultas futuras e geração de relatórios com base em períodos definidos pelo usuário).
+
+
+Baixar relatórios mensais (Permite que o usuário faça o download do relatório em formato PDF).
+
+
+Realizar Backup e recuperação de dados (Permitir a realização de cópias de segurança das informações financeiras registradas e possibilitar a recuperação dos dados em caso de perda ou falha do sistema).
+
 
 
 **5 - Restrições:**
