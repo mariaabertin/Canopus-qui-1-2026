@@ -28,7 +28,7 @@ Cadastrar perfil do usuário (Cadastrar conta do usuário no sistema por meio do
 Registrar saldo inicial (Permitir ao usuário definir o saldo financeiro total disponível no momento do primeiro acesso).
 
 
-Visualizar relatorio mensal (Dashboard completo contendo os cadastros de receitas, despesas variaveis, despesas fixas e reservas financeiras, com seus parâmetros, cadastrados para o mês vigente).
+Visualizar relatorio mensal (Dashboard completo contendo os cadastros de receitas, despesas variáveis, despesas fixas e reservas financeiras, com seus parâmetros, cadastrados para o mês vigente).
 
 
 Cadastrar receitas (Registrar entradas financeiras informando categoria, data e valor, permitindo o acompanhamento mensal).
