@@ -38,13 +38,7 @@ Visualizar relatorio mensal (Dashboard completo contendo os cadastros de receita
 Cadastrar receitas (Registrar entradas financeiras informando categoria, data e valor, permitindo o acompanhamento mensal).
 
 
-Cadastrar despesas (Registrar saídas financeiras informando categoria da despesa, data e valor, permitindo o controle das despesas).
-
-
-Cadastrar reservas financeiras (Registrar valores nas reservas financeiras, como poupança, caixinhas ou investimentos, com informações de categoria e valor).
-
-
-Classificar despesas como fixas ou variáveis (Permitir a definição do tipo da despesa e configurar seu padrão de recorrência).
+Cadastrar despesas (Registrar saídas financeiras classificando como fixa ou variável e informando categoria da despesa, data e valor).
 
 
 Editar e excluir registros financeiros (Permitir ao usuário modificar ou remover registros cadastrados de entrada, saída ou alertas, garantindo melhor gerenciamento).
