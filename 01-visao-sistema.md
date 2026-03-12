@@ -25,6 +25,10 @@ Grupo: Canopus
 
 Cadastrar perfil do usuário (Cadastrar conta do usuário no sistema por meio do fornecimento de CPF, nome completo, e-mail e senha de acesso para autenticação na plataforma).
 
+
+Acessar o sistema (Usuário acessa sua conta por meio do CPF e senha previamente cadastrados no sistema).
+
+
 Registrar saldo inicial (Permitir ao usuário definir o saldo financeiro total disponível no momento do primeiro acesso).
 
 
