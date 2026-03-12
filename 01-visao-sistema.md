@@ -36,6 +36,9 @@ Vincular registros em calendário externo (Vincular registros no calendário do 
 Gerar relatório financeiro mensal (Gerar relatório ao final de todo mês especificando as ações financeiras dos usuários); <br>
 Realizar buscas por filtros (Realizar buscas nos registros com base em suas características: valor, tipo, categoria e intervalo de tempo); <br>
 Criar históricos dos relatórios mensais (Gerar relatórios com base nos registros e intervalo de tempo definido pelo usuário). <br>
+Editar e excluir registros financeiros (Permitir ao usuário modificar ou remover registros cadastrados de entrada, saída ou alertas, garantindo melhor gerenciamento). <br>
+Notificar saldo negativo ou risco financeiro (Enviar notificações ao usuário quando o sistema identificar risco de saldo negativo ou quando as despesas registradas ultrapassarem as entradas do período). <br>
+Backup e recuperação de dados (Permitir a realização de cópias de segurança das informações financeiras registradas e possibilitar a recuperação dos dados em caso de perda ou falha do sistema). <br>
 
 
 **5 - Restrições:**
