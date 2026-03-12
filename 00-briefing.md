@@ -57,8 +57,7 @@ Gerar relatório financeiro mensal.
 Criar histórico de relatórios mensais.
 
 Baixar relatórios mensais.
-
-Realizar Backup e recuperação de dados. <br>
+ <br>
  <br> <br>
 **4. Escopo não funcional** <br>
 Arquitetura baseada no padrão MVC (Model-View-Controller); <br>
