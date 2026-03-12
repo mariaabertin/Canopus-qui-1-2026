@@ -70,6 +70,8 @@ Disponibilidade e confiabilidade: backups automáticos para cada movimentação 
 Qualidade: todas as funcionalidades serão testadas, com 100% de cobertura para os fluxos críticos, cerca de 70–80% para funcionalidades secundárias e 60–70% para requisitos de suporte e não funcionais; <br>
 Usabilidade e acessibilidade: acessibilidade adequada e usabilidade onboarding (simplificada e intuitiva); <br>
 Conformidade e governança de dados: classificar dados (pessoal/sensível), política de retenção. <br>
+Notificar saldo negativo ou risco financeiro (Enviar notificações ao usuário -via email- quando o sistema identificar risco de saldo negativo ou quando as despesas registradas ultrapassarem as entradas do período); <br>
+Realizar Backup e recuperação de dados (Permitir a realização de cópias de segurança das informações financeiras registradas e possibilitar a recuperação dos dados em caso de perda ou falha do sistema). <br>
  <br> <br>
 **5. Usuários** <br>
 Usuário final: pessoa física interessada em organizar e controlar suas finanças pessoais por meio do registro de receitas e despesas.
