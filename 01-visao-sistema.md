@@ -56,13 +56,8 @@ Configurar alertas para vencimento de despesas (Permitir ao usuário definir not
 Configurar alertas personalizados (Permitir a criação de lembretes financeiros personalizados baseados em data e horário definidos pelo usuário, que aparecerão no calendário do sistema e notificadas no email cadastrado).
 
 
-Notificar saldo negativo ou risco financeiro (Enviar notificações ao usuário -via email- quando o sistema identificar risco de saldo negativo ou quando as despesas registradas ultrapassarem as entradas do período).
-
-
 Visualizar registros em formato de calendário (Visualizar registros criados pelo usuário baseados em mês e dia por meio do calendário do sistema).
 
-
-Vincular registros em calendário externo (Vincular registros no calendário do Teams e/ou Google Calendar).
 
 
 Realizar buscas por filtros (Permitir a pesquisa de registros financeiros utilizando filtros como valor, tipo de movimentação, categoria e intervalo de tempo).
@@ -75,10 +70,6 @@ Criar histórico de relatórios mensais (Armazenar e disponibilizar relatórios 
 
 
 Baixar relatórios mensais (Permite que o usuário faça o download do relatório em formato PDF).
-
-
-Realizar Backup e recuperação de dados (Permitir a realização de cópias de segurança das informações financeiras registradas e possibilitar a recuperação dos dados em caso de perda ou falha do sistema).
-
 
 
 **5 - Restrições:**
