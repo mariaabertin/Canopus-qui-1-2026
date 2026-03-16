@@ -59,7 +59,7 @@ Realizar buscas por filtros (Permitir a pesquisa de registros financeiros utiliz
 Gerar relatório financeiro mensal (Gerar automaticamente um relatório ao final de cada mês, apresentando o resumo das entradas, saídas e movimentações financeiras registradas, armazenando em banco de histórico).
 
 
-Gerar de relatórios personalizados (Solicitar a geração de relatórios financeiros com filtro personalizado, com base com data, classificação, valores e datas).
+Gerar relatórios personalizados (Solicitar a geração de relatórios financeiros com filtro personalizado, com base com data, classificação, valores e datas).
 
 
 Baixar relatórios (Permite que o usuário faça o download do relatório em formato PDF).
