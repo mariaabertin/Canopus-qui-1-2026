@@ -30,6 +30,8 @@ Registrar receitas e despesas a fim de promover controle financeiro pessoal efic
 3.2 Funcionalidades específicas (secundárias) do sistema: <br>
 Cadastrar perfil do usuário.
 
+Acessar o sistema / login.
+
 Registrar saldo inicial.
 
 Cadastrar receitas.
@@ -48,15 +50,13 @@ Notificar saldo negativo ou risco financeiro.
 
 Visualizar registros em formato de calendário.
 
-Vincular registros em calendário externo.
-
 Realizar buscas por filtros.
 
-Gerar relatório financeiro mensal.
+Acessar relatório financeiro mensal.
 
-Criar histórico de relatórios mensais.
+Gerar relatórios personalizados.
 
-Baixar relatórios mensais.
+Baixar relatórios.
  <br>
  <br> <br>
 **4. Escopo não funcional** <br>
